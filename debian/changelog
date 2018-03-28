@@ -1,13 +1,13 @@
-openwsman (2.6.5-0~deb1) UNRELEASED; urgency=low
+openwsman (2.6.5-0.1) UNRELEASED; urgency=medium
 
   * patches for openwsman from https://src.fedoraproject.org/cgit/rpms/openwsman.git
-      01-pamsetup.patch
-      02-openssl-1.1-fix.patch
-      03-fix-cipher-list-reval-check.patch
-      04-http-status-line.patch		
-  * built for debian 9
+     - 01-pamsetup.patch
+     - 02-openssl-1.1-fix.patch
+     - 03-fix-cipher-list-reval-check.patch
+     - 04-http-status-line.patch
+   * built for Debian 9 
 
- -- Sangamesh Koradhanyamath <sangamesh_koradhanya@dell.com>  Wed, 14 Mar 2018 10:43:07 +0530
+ -- Sangamesh Koradhanyamath <sangamesh_koradhanya@dell.com>  Wed, 28 Mar 2018 21:54:15 +0530
 
 openwsman (2.4.7-0ubuntu2) utopic; urgency=medium
 
