@@ -5,7 +5,7 @@ openwsman (2.6.5-0.1) UNRELEASED; urgency=medium
      - 02-openssl-1.1-fix.patch
      - 03-fix-cipher-list-reval-check.patch
      - 04-http-status-line.patch
-   * built for Debian 9 
+  * built for Debian 9 
 
  -- Sangamesh Koradhanyamath <sangamesh_koradhanya@dell.com>  Wed, 28 Mar 2018 21:54:15 +0530
 
